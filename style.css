@@ -33,7 +33,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
   margin: 0;
   font-family: "Source Sans Pro", sans-serif;
-  text-align: left;
+  text-align: center;
   padding: 20px
 }
 
@@ -74,13 +74,12 @@ p.sub-text {
 }
 
 /*******section heading**********/
-
-.left-heading {
-  text-align: left;
+.center-heading {
+  text-align: center;
   margin-bottom: 40px;
 }
 
-.left-heading h2 {
+.center-heading h2 {
   margin-bottom: 0;
   font-weight: 400;
   text-transform: uppercase;
@@ -89,13 +88,12 @@ p.sub-text {
   font-size: 30px;
 }
 
-.left-heading p {
+.center-heading p {
   font-size: 20px;
   line-height: 35px;
-  text-align: relative
 }
 
-.left-heading h2 strong {
+.center-heading h2 strong {
   font-weight: 700;
 }
 
@@ -108,16 +106,12 @@ p.sub-text {
   margin: auto;
 }
 
-.left-heading p {
+.center-heading p {
   margin-top: 10px;
 }
 
 .overflow-hidden {
   overflow: hidden;
-}
-
-.col-sm-4{
-	background: url("/img/logo.jpg") no-repeat;
 }
 
 /*margin*/
@@ -311,7 +305,3 @@ h1.typed-text {
   color: #fff;
 }
 
-/*logo*/
-.logo{
-	background: url("/img/logo.png") no-repeat;
-}
