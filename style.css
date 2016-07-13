@@ -34,6 +34,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0;
   font-family: "Source Sans Pro", sans-serif;
   text-align: center;
+  padding: 20px
 }
 
 h1 {
@@ -149,17 +150,6 @@ p.sub-text {
   background-color: #fff;
   border-color: #fff;
   color: #000;
-}
-
-.border-theme {
-  border: 1px solid #32c5d2;
-  color: #32c5d2;
-}
-
-.border-theme:hover {
-  background-color: #32c5d2;
-  border-color: #32c5d2;
-  color: #fff;
 }
 
 /*navbar*/
