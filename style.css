@@ -33,7 +33,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
   margin: 0;
   font-family: "Source Sans Pro", sans-serif;
-  text-align: center;
+  text-align: left;
   padding: 20px
 }
 
@@ -74,12 +74,13 @@ p.sub-text {
 }
 
 /*******section heading**********/
-.center-heading {
-  text-align: center;
+
+.left-heading {
+  text-align: left;
   margin-bottom: 40px;
 }
 
-.center-heading h2 {
+.left-heading h2 {
   margin-bottom: 0;
   font-weight: 400;
   text-transform: uppercase;
@@ -88,12 +89,13 @@ p.sub-text {
   font-size: 30px;
 }
 
-.center-heading p {
+.left-heading p {
   font-size: 20px;
   line-height: 35px;
+  text-align: relative
 }
 
-.center-heading h2 strong {
+.left-heading h2 strong {
   font-weight: 700;
 }
 
@@ -106,7 +108,7 @@ p.sub-text {
   margin: auto;
 }
 
-.center-heading p {
+.left-heading p {
   margin-top: 10px;
 }
 
