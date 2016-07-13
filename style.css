@@ -116,6 +116,10 @@ p.sub-text {
   overflow: hidden;
 }
 
+.col-sm-4{
+	background: url("/img/logo.jpg") no-repeat;
+}
+
 /*margin*/
 .margin30 {
   margin-bottom: 30px;
