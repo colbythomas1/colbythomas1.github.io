@@ -187,6 +187,7 @@ p.sub-text {
   line-height: 20px;
   font-style: normal;
   text-transform: uppercase;
+  padding:5px 15px
 }
 
 .navbar .dropdown-menu {
