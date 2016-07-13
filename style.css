@@ -33,6 +33,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
   margin: 0;
   font-family: "Source Sans Pro", sans-serif;
+  text-align: center;
 }
 
 h1 {
@@ -286,11 +287,17 @@ p.sub-text {
   display: block;
   text-align: center;
   margin-top: 20px;
+  border-style:solid; 
+  border-width:5px; 
+  border-radius: 25px;
 }
 
 .parallax-buttons a {
   display: inline-block;
   margin: 5px;
+  border-style:solid; 
+  border-width:5px; 
+  border-radius: 25px;
 }
 
 h1.typed-text {
