@@ -292,7 +292,7 @@ p.sub-text {
   border-radius: 25px;
 }
 
-.parallax-buttons a {
+.parallax-buttons > a {
   display: inline-block;
   margin: 5px;
   border-style:solid; 
