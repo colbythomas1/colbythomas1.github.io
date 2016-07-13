@@ -305,3 +305,7 @@ h1.typed-text {
   color: #fff;
 }
 
+/*logo*/
+.logo{
+	background: url("/img/logo.png") no-repeat;
+}
