@@ -396,3 +396,15 @@ h1.typed-text {
 #backpro-parallax p {
   color: #fff;
 }
+
+/*landlight*/
+#landlight-parallax {
+  background: url("/img/showcase-4.jpg") no-repeat;
+  padding: 190px 0;
+}
+
+#landlight-parallax p {
+  color: #fff;
+}
+
+
