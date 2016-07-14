@@ -452,3 +452,10 @@ h1.typed-text {
 #about-parallax p {
   color: #fff;
 }
+
+/*parallax*/
+@media only screen and (min-width: 320px) and (max-width: 989px) {
+.parallax {
+background-attachment: scroll !important;
+}
+}
