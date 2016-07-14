@@ -339,7 +339,7 @@ p.sub-text {
 }
 
 #home-parallax {
-  background: url("/img/garden.png") no-repeat;
+  background: url("/img/water-grass.jpg") no-repeat;
   padding: 190px 0;
   background-size:100%;
   background-repeat:no-repeat;
@@ -395,7 +395,7 @@ h1.typed-text {
 
 /*mainten*/
 #mainten-parallax {
-  background: url("/img/garden.png") no-repeat;
+  background: url("/img/water-grass.jpg") no-repeat;
   padding: 190px 0;
   background-size:100%;
   background-repeat:no-repeat;
@@ -409,7 +409,7 @@ h1.typed-text {
 
 /*backpro*/
 #backpro-parallax {
-  background: url("/img/garden.png") no-repeat;
+  background: url("/img/water-grass.jpg") no-repeat;
   padding: 190px 0;
   background-size:100%;
    background-repeat:no-repeat;
@@ -423,7 +423,7 @@ h1.typed-text {
 
 /*landlight*/
 #landlight-parallax {
-  background: url("/img/garden.png") no-repeat;
+  background: url("/img/water-grass.jpg") no-repeat;
   padding: 190px 0;
   background-size:100%;
   background-repeat:no-repeat;
@@ -437,7 +437,7 @@ h1.typed-text {
 
 /*about*/
 #about-parallax {
-  background: url("/img/garden.png") no-repeat;
+  background: url("/img/water.jpg") no-repeat;
   padding: 190px 0;
   background-size:100%;
   background-repeat:no-repeat;
