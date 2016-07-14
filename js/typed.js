@@ -327,7 +327,7 @@
         // callback for reset
         resetCallback: function() {}
     };
-@media only screen and (max-width: 1100px) {
+@media only screen and (max-width: 800px) {
 .section {
 background-attachment: scroll !important;
 background-position: center center !important;
