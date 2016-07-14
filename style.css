@@ -364,10 +364,6 @@ p.sub-text {
   border-radius: 25px;
 }
 
-p.lead{
-	color: gray;
-}
-
 h1.typed-text {
   color: gray;
   text-transform: uppercase;
