@@ -34,6 +34,14 @@ a {
 	margin: 50px;
 }
 
+.gray{
+	color:gray;
+}
+
+.green{
+	color: #6DBF19;
+}
+
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
   color: #060606;
