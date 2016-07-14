@@ -331,8 +331,12 @@ p.sub-text {
 }
 
 #home-parallax {
-  background: url("/img/showcase-4.jpg") no-repeat;
+  background: url("/img/garden.png") no-repeat;
   padding: 190px 0;
+  background-size:100%;
+  background-repeat:no-repeat;
+  height: 100%;
+  width: 100%;
 }
 
 .parallax-buttons {
@@ -369,8 +373,12 @@ h1.typed-text {
 
 /*comres*/
 #comres-parallax {
-  background: url("/img/showcase-4.jpg") no-repeat;
+  background: url("/img/garden.png") no-repeat;
   padding: 190px 0;
+  background-size:100%;
+  background-repeat:no-repeat;
+  height: 100%;
+  width: 100%;
 }
 
 #comres-parallax p {
@@ -379,8 +387,12 @@ h1.typed-text {
 
 /*mainten*/
 #mainten-parallax {
-  background: url("/img/showcase-4.jpg") no-repeat;
+  background: url("/img/garden.png") no-repeat;
   padding: 190px 0;
+  background-size:100%;
+  background-repeat:no-repeat;
+  height: 100%;
+  width: 100%;
 }
 
 #mainten-parallax p {
@@ -391,6 +403,10 @@ h1.typed-text {
 #backpro-parallax {
   background: url("/img/showcase-4.jpg") no-repeat;
   padding: 190px 0;
+  background-size:100%;
+   background-repeat:no-repeat;
+   height: 100%;
+   width: 100%;
 }
 
 #backpro-parallax p {
@@ -399,12 +415,28 @@ h1.typed-text {
 
 /*landlight*/
 #landlight-parallax {
-  background: url("/img/showcase-4.jpg") no-repeat;
+  background: url("/img/garden.png") no-repeat;
   padding: 190px 0;
+  background-size:100%;
+  background-repeat:no-repeat;
+  height: 100%;
+  width: 100%;
 }
 
 #landlight-parallax p {
   color: #fff;
 }
 
+/*about*/
+#about-parallax {
+  background: url("/img/garden.png") no-repeat;
+  padding: 190px 0;
+  background-size:100%;
+  background-repeat:no-repeat;
+  height: 100%;
+  width: 100%;
+}
 
+#about-parallax p {
+  color: #fff;
+}
