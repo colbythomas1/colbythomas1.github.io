@@ -357,3 +357,16 @@ h1.typed-text {
   color: #fff;
 }
 
+/*comres*/
+element.style {
+    width: 100%;
+    height: 100%;
+    opacity: 1;
+    visibility: inherit;
+    z-index: 20;
+    background-image: url("img/gym1.jpg");
+    background-color: rgba(0, 0, 0, 0);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
