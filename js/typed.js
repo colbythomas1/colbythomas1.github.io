@@ -327,19 +327,6 @@
         // callback for reset
         resetCallback: function() {}
     };
-@media only screen and (max-width: 800px) {
-.section {
-background-attachment: scroll !important;
-background-position: center center !important;
-}
-}
-
-@media only screen and (-webkit-min-device-pixel-ratio: 2) {
-.section {
-background-attachment: scroll !important;
-background-position: center center !important;
-}
-}
 
 }(window.jQuery);
 
