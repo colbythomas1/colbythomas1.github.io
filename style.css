@@ -88,7 +88,7 @@ p.sub-text {
   font-size: 16px;
   line-height: 29px;
   font-weight: 300;
-  color: #000000;
+  color: #555;
 }
 
 /*******section heading**********/
@@ -364,8 +364,12 @@ p.sub-text {
   border-radius: 25px;
 }
 
+.lead{
+	color: gray
+}
+
 h1.typed-text {
-  color: #000000;
+  color: gray;
   text-transform: uppercase;
   margin-bottom: 20px;
   font-weight: 700;
