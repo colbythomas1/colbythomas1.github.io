@@ -366,3 +366,23 @@ h1.typed-text {
 #comres-parallax p {
   color: #fff;
 }
+
+/*mainten*/
+#mainten-parallax {
+  background: url("/img/showcase-4.jpg") no-repeat;
+  padding: 190px 0;
+}
+
+#mainten-parallax p {
+  color: #fff;
+}
+
+/*backpro*/
+#backpro-parallax {
+  background: url("/img/showcase-4.jpg") no-repeat;
+  padding: 190px 0;
+}
+
+#backpro-parallax p {
+  color: #fff;
+}
