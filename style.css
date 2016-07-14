@@ -251,7 +251,7 @@ p.sub-text {
   right: 9px;
   font-size: 11px;
   content: "\f105";
-  position: relative;
+  position: absolute;
   font-weight: normal;
   display: inline-block;
   font-family: FontAwesome;
