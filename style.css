@@ -358,51 +358,11 @@ h1.typed-text {
 }
 
 /*comres*/
-element.style {
-    width: 100%;
-    height: 100%;
-    opacity: 1;
-    visibility: inherit;
-    z-index: 20;
-    background-image: url("img/gym1.jpg");
-    background-color: rgba(0, 0, 0, 0);
-    background-size: cover;
-    background-position: center center;
-    background-repeat: no-repeat;
-	transform: matrix(1, 0, 0, 1, 0, 0);
+#comres-parallax {
+  background: url("/img/showcase-4.jpg") no-repeat;
+  padding: 190px 0;
 }
 
-.tp-simpleresponsive >ul, .tp-simpleresponsive >ul >li, .tp-simpleresponsive >ul >li:before, .tp-revslider-mainul >li, .tp-simpleresponsive >ul >li {
-    list-style: none !important;
-    position: absolute;
-    margin: 0px !important;
-    padding: 0px !important;
-    overflow-x: visible;
-    overflow-y: visible;
-    list-style-type: none !important;
-    background-image: none;
-    background-position: 0px 0px;
-    text-indent: 0em;
-    top: 0px;
-    left: 0px;
-}
-
-li {
-    display: list-item;
-    text-align: -webkit-match-parent;
-}
-
-.rev_slider >ul, .rev_slider_wrapper >ul, .tp-revslider-mainul >li, .rev_slider >ul >li, .rev_slider >ul >li:before, .tp-revslider-mainul >li:before, .tp-simpleresponsive >ul, .tp-simpleresponsive >ul >li, .tp-simpleresponsive >ul >li:before, .tp-revslider-mainul >li, .tp-simpleresponsive >ul >li {
-    list-style: none !important;
-    position: absolute;
-    margin: 0px !important;
-    padding: 0px !important;
-    overflow-x: visible;
-    overflow-y: visible;
-    list-style-type: none !important;
-    background-image: none;
-    background-position: 0px 0px;
-    text-indent: 0em;
-    top: 0px;
-    left: 0px;
+#comres-parallax p {
+  color: #fff;
 }
