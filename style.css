@@ -27,6 +27,13 @@ a {
   transition: all 200ms ease-in;
 }
 
+.container{
+	border-style: outset;
+	border-color: black;
+	border-radius: 25px;
+	
+}
+
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
   color: #060606;
@@ -48,6 +55,7 @@ h2 {
   font-weight: 700;
   line-height: 42px;
   margin: 0 0 32px 0;
+  color: #6DBF19
 }
 
 h3 {
@@ -63,6 +71,8 @@ p {
   color: #555;
   line-height: 24px;
   margin: 0 0 20px;
+  padding: 5px;
+  color: gray;
 }
 
 p.sub-text {
